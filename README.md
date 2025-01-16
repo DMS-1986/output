@@ -17,11 +17,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Prompt para criação de dados da planilha
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+Criar tabela com as seguintes colunas para controle de gastos domésticos: Data; Tipo;	 Categoria; Descrição; Valor; Operação Bancária; Status. Fornecer 40 linhas de dados. As datas devem variar de janeiro/2024 a abril/2024. O tipo deve ser entrada ou saída, com apenas 2 entradas mensais. As categorias devem ser para saída: saúde, alimentação, educação, serviços, utilidades domésticas, etc ou para entradas: salário, venda de ativo. A descrição deve ser o tipo de gasto a que se refere o dado. O valor deve ser em reais. Operação bancária: transferência, boleto, débito automático, cartão de crédito. E o status deve ser pendente ou realizado.
 
 
 ## 🛠️ Instruções de execução
