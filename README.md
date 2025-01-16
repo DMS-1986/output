@@ -1,18 +1,14 @@
-# Projeto Podcast Gerado por I.A.s
+# Projeto controle de gastos com Planilha Inteligente
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar uma Planilha Inteligente para controle de gastos
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Excel](https://onedrive.live.com/personal/718559abf1c241a1/_layouts/15/doc2.aspx?resid=e3b4cb27-7a15-476f-8fc3-1743c6a08b40&cid=718559abf1c241a1&action=editnew&wdNewAndOpenCt=1736988961020&ct=1736988961729&wdOrigin=OFFICECOM-WEB.MAIN.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=2a2e1954-a771-47e6-903d-3c7c47f09ed5)
+
 
 ## ✨ Como foi feito ?
 
